@@ -1,0 +1,38 @@
+.container{
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+}
+
+.titulo1{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+.titulo{
+    text-align: center;
+    font-size: 15px;
+}
+
+.contenido{
+    width: 200px;
+    display: inline-block;
+    padding: 15px;
+    border-radius: 8px;
+    margin: 10px;
+}
+
+.descripcion{
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    padding: 5px;
+}
+
+.boton{
+    margin: 10px;
+}
